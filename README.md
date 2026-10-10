@@ -2,7 +2,7 @@
 scutclient newifi3 客户端
 
 使用固件：  
-newif3D2-512M Padavan 3.4.3.9-099_24-06-1   
+newif3D2-512M 老毛子Padavan 3.4.3.9-099_24-06-1   
 [https://opt.cn2qq.com/padavan/RT-N56UB1-newif3D2-512M_3.4.3.9-099.trx](https://opt.cn2qq.com/padavan/RT-N56UB1-newif3D2-512M_3.4.3.9-099.trx)    
 
 上传到路由器  
